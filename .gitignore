@@ -1,0 +1,11 @@
+# Ignore Images
+*.jpg
+*.png
+
+# Ignore Videos
+*.mp4
+*.avi
+
+# Ignore Entire Folders
+/videos/
+/temp/
