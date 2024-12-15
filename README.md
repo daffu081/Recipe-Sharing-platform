@@ -1,1 +1,1 @@
-# Recipe-Sharing-platform
+# food-hub-frontend
